@@ -39,7 +39,7 @@ This interdisciplinary research project sits at the fascinating **intersection o
 
 ### 👨‍🎓 **Author & Context**
 
-**Yue Wu** (Student ID: 210312838)  
+**Yue Wu** 
 📅 _June 28, 2023_  
 🏛️ _CM2015 - Programming With Data, University of London_
 
@@ -162,26 +162,29 @@ Our computational analysis of Hugo's literary legacy in digital space reveals:
 <tr>
 <td width="33%">
 
-### 📚 **The Serialization Renaissance**
+### 📚 **The Update Paradox**
 
-- **Finding:** Multi-chapter works dominate engagement
-- **Data Insight:** 3.2x higher engagement for serialized content
+- **Finding:** Frequent updates do not necessarily increase popularity
+- **Literary Context:** Quality over quantity in serialization
+- **Data Insight:** Top 10% popular works show weakly negative correlation with chapter count
 
 </td>
 <td width="33%">
 
 ### 📏 **The Digital Sweet Spot**
 
-- **Finding:** 3,000-15,000 words optimal range
-- **Data Insight:** 85% of top-quartile works fall in this range
+- **Finding:** ~10,000 words optimal for most works
+- **Literary Context:** Different preferences by content rating
+- **Data Insight:** General audiences prefer ~5,000 words; Mature/Explicit prefer ~100,000 words
 
 </td>
 <td width="33%">
 
-### ⭐ **Quality-Community Correlation**
+### ⭐ **Rating-Popularity Connection**
 
-- **Finding:** Strong rating-popularity relationship (r=0.76)
-- **Data Insight:** Community curation drives visibility
+- **Finding:** Higher-rated content correlates with increased popularity
+- **Literary Context:** Community curation drives engagement
+- **Data Insight:** Mature and Explicit content shows sustained popularity with length
 
 </td>
 </tr>
@@ -303,7 +306,7 @@ _"The intersection of humanities and technology opens infinite possibilities"_
 
 ## 🤝 **Connect & Collaborate**
 
-**Yue Wu** 
+**Yue Wu**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuewuxd/)
 
