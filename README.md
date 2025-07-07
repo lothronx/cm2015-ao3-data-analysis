@@ -165,7 +165,6 @@ Our computational analysis of Hugo's literary legacy in digital space reveals:
 ### 📚 **The Serialization Renaissance**
 
 - **Finding:** Multi-chapter works dominate engagement
-- **Literary Context:** Echoing Dickens' serial publications
 - **Data Insight:** 3.2x higher engagement for serialized content
 
 </td>
@@ -174,7 +173,6 @@ Our computational analysis of Hugo's literary legacy in digital space reveals:
 ### 📏 **The Digital Sweet Spot**
 
 - **Finding:** 3,000-15,000 words optimal range
-- **Literary Context:** Short story to novella length
 - **Data Insight:** 85% of top-quartile works fall in this range
 
 </td>
@@ -183,7 +181,6 @@ Our computational analysis of Hugo's literary legacy in digital space reveals:
 ### ⭐ **Quality-Community Correlation**
 
 - **Finding:** Strong rating-popularity relationship (r=0.76)
-- **Literary Context:** Peer review in digital spaces
 - **Data Insight:** Community curation drives visibility
 
 </td>
@@ -265,14 +262,7 @@ Our visualizations bridge quantitative analysis with qualitative understanding:
 </tr>
 </table>
 
-### 📖 **Building on Foundational Works**
-
-- **Henry Jenkins** (1992): _Textual Poachers_ - Participatory culture theory
-- **Anne Jamison** (2013): _Fic_ - Fan fiction as literature
-- **Kristina Busse & Karen Hellekson** (2014): _Fan Studies_ - Academic framework
-- **Franco Moretti** (2013): _Distant Reading_ - Computational literary analysis
-
-## � **Future Horizons**
+## 🔎 **Future Horizons**
 
 <div align="center">
 
@@ -286,10 +276,6 @@ _"The intersection of humanities and technology opens infinite possibilities"_
 <tr>
 <td><b>📚 Literary Expansion</b></td>
 <td>Multi-fandom comparative studies across literary periods and genres</td>
-</tr>
-<tr>
-<td><b>🤖 AI Integration</b></td>
-<td>Machine learning models for popularity prediction and content recommendation</td>
 </tr>
 <tr>
 <td><b>🌐 Cross-Platform Analysis</b></td>
@@ -318,6 +304,7 @@ _"The intersection of humanities and technology opens infinite possibilities"_
 ## 🤝 **Connect & Collaborate**
 
 **Yue Wu** 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuewuxd/)
 
 ---
