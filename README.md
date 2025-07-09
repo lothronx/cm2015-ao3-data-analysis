@@ -13,6 +13,8 @@
 
 ## 🎯 Project Overview
 
+![Word Cloud](img/output_1.png)
+
 This project sits at the fascinating intersection of **literature studies** and **computer science**, analyzing what makes fan fiction popular in digital communities. Using Archive of Our Own (AO3) as a case study, I scraped and analyzed metadata from 20,800 English fanfictions in the Les Misérables fandom to uncover patterns in reader engagement and content preferences.
 
 ### 🔍 Research Questions
